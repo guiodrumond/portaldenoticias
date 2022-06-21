@@ -1,0 +1,27 @@
+.highlight-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    background-color: #2E0068;
+    border-radius: 8px;
+}
+
+.text-content {
+    padding: 16px;
+}
+
+.highlight-title {
+    color: #FFC700;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.highlight-subtitle {
+    color: #FFF;
+}
+
+.fake-image {
+    height: 166px;
+    width: 320px;
+    border-radius: 0 8px 8px 0;
+    background-color: #FFC700;
+}
