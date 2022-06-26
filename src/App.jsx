@@ -2,7 +2,7 @@
 import './App.css'
 import Header from './components/header'
 import SideNews from './components/sideNews'
-import HighlightList from './components/highlightList';
+import HighlightList from './components/highlightList'
 
 function App() {
   return (
